@@ -1,0 +1,135 @@
+#headpara{
+    border: 1px solid black;
+   float: left;
+   width: 99%;
+   height: 1596px;
+   background-color: khaki;
+   margin: 5px;
+   
+}
+#butt{
+    border: 1px solid black;
+ 
+ 
+ margin-bottom: 5px;
+padding-top: 5px;
+ padding-left: 600px;
+ height: 30px;
+ background-color: darkkhaki;
+}
+#butt input{
+    margin: 5px;
+    margin-right: 35px;
+    background-color: cadetblue;
+  
+}
+.para{
+    padding-bottom: 40px;
+    float: left;
+    padding-left: 40px;
+    line-break: 60px;
+}
+.lorem{
+    padding-right: 10px;
+    padding-top: 30px;
+    text-align: right;
+}
+h1{
+   
+    text-transform: lowercase;
+    text-align: center;
+    font-family: cursive;
+    font-weight: lighter;
+}
+hr{
+    border: 1px solid black;
+}
+    .ooo{
+        border: 1px solid black;
+        width: 300px;
+        height: 400px;
+        margin-left: 15px;
+        float: right;
+        margin-top: 20px;
+        background-color: olive;
+        margin-right: 15px;
+    }
+    .ppp{
+        border: 1px solid black;
+        width: 300px;
+        height: 400px;
+        margin-left: 15px;
+        float: right;
+        margin-top: 20px;
+        background-color: dimgrey;
+    }
+    .iii{
+        border: 1px solid black;
+        width: 300px;
+        height: 400px;
+        margin-left: 15px;
+        float: right;
+        margin-top: 20px;
+       background-color: forestgreen;
+    }
+    .kkk{
+        width: 50%;
+        border: 1px solid black;
+        height: 370px;
+        background-color: blueviolet;
+        
+    }
+    .lll{
+        width: 50%;
+        border: 1px solid black;
+        float: right;
+        height: 370px;
+        background-color: burlywood;
+      
+    }
+    .mmm{
+        width: 50%;
+        border: 1px solid black;
+        height: 300px;
+        background-color: maroon;
+        float: right;
+    }
+    .jjj{
+            width: 50%;
+            border: 1px solid black;
+            height: 300px;
+            background-color: maroon;
+            
+    }
+    #title{
+        border: 1px solid black;
+        background-color: blueviolet;
+    height: 1610px;
+    }
+    fieldset{
+        border-width: 4px;
+       border-style: dotted;
+    }
+.jjj hr{
+border-style: dotted;
+border-color: burlywood;
+
+}
+textarea{
+    background-color: maroon;
+    border-color: maroon;
+}
+.mmm hr{
+    border-style: dotted;
+    border-color: burlywood;
+    
+    }
+    .kkk p{
+        text-align: center;
+        padding: 15px;
+    }
+    .jjj input{
+        display: block;
+        border: maroon;
+        background-color: maroon;
+    }
